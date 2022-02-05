@@ -4,8 +4,6 @@ GitHub Student Developer Pack
 
 your work will speak for itself.
 
-file:///F:/SDET/portfolio/Project-A-master/index.html 
-
 
 
 
